@@ -1,8 +1,7 @@
-### Hi there 👋 i am mostafa.
+## Hi there 👋 i am mostafa (mst-ghi)
 
-> Backend and Frontend Developer.  
+> Back-end and Front-end Developer
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=mst-ghi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mst-ghi&layout=compact)](https://github.com/mst-ghi/github-readme-stats)
 
 
